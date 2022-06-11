@@ -1,0 +1,31 @@
+{
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "Datos/*"
+    ]
+  },
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "hat": "^0.0.3",
+    "https": "^1.0.0",
+    "librcon": "^1.0.3",
+    "modern-rcon": "^1.0.3",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "rcon": "^1.1.0",
+    "winston": "^3.7.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

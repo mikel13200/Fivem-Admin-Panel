@@ -1,0 +1,28 @@
+[
+    {
+        "SeeLastBans": 1,
+        "GetUserData": 1,
+        "AddWeapon": 3,
+        "DeleteWeapon": 3,
+        "CK": 4,
+        "AddWarn": 2,
+        "BanTemp": 2,
+        "BanPerm": 2,
+        "Kick": 2,
+        "Screenshot": 3,
+        "DeleteTicket": 6,
+        "UnbanPeople": 4,
+
+        "SeeBanList": 4,
+        "SeeSearchUsers": 1,
+        "SeeOnlineUsers": 2,
+        "SeeLastUsersModified": 4,
+        "SeeMafias": 3,
+        "SeeMafiaMembers": 3,
+        "SeeMafiaArmarios": 3,
+        "SeeStaffList": 4,
+        "SeeLastActivity": 1,
+
+        "AddStaffs": 6
+    }
+]
