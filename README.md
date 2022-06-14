@@ -47,10 +47,9 @@
 
 ### Requirements
 * Web Server w/ PHP
-* Server Requirements: CURL, File Get Contents URL, Outbound URL Access (Some hosts block outbound requests/port 30120), BCMath
+* VPS (To host the API)
 * MySQL Database
 * Steam API Key (https://steamcommunity.com/dev/apikey)
-* Support for Cron Jobs
 
 
 ### Installation
