@@ -1,3 +1,5 @@
+# [DISCORD SERVER](https://discord.gg/5J7hUhRR8q)
+
 <p align="center">
   <h1 align="center">
       FiveM Admin Panel
