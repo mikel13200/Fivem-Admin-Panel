@@ -5,7 +5,7 @@
       FiveM Admin Panel
   </h1>
   <h3 align="center">
-      If you would like to report an issue or request a feature. Join our <a href="https://discord.gg/R54TXzd33M">Discord</a>.
+      If you would like to report an issue or request a feature. Join our <a href="https://discord.gg/5J7hUhRR8q">Discord</a>.
   </h3>
 </p>
 
