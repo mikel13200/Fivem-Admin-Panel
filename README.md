@@ -1,11 +1,9 @@
-# [DISCORD SERVER](https://discord.gg/5J7hUhRR8q)
-
 <p align="center">
   <h1 align="center">
       FiveM Admin Panel
   </h1>
   <h3 align="center">
-      If you would like to report an issue or request a feature. Join our <a href="https://discord.gg/5J7hUhRR8q">Discord</a>.
+      If you would like to report an issue or request a feature. Join our <a href="https://discord.gg/bSrX4cVJG2">Discord</a>.
   </h3>
 </p>
 
