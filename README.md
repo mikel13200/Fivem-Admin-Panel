@@ -2,6 +2,9 @@
   <h1 align="center">
       FiveM Admin Panel
   </h1>
+  <h2>
+    PREVIEW: https://www.youtube.com/watch?v=zuIGTeJ0CPA
+  </h2>
   <h3 align="center">
       If you would like to report an issue or request a feature. Join our <a href="https://discord.gg/bSrX4cVJG2">Discord</a>.
   </h3>
